@@ -5,3 +5,4 @@ const socialIconList = [
   icGoogleLogo,
   icTwitterLogo,
 ];
+const sliderList = [imgSlider1, imgSlider2, imgSlider3, imgSlider4];

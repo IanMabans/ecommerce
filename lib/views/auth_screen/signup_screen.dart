@@ -1,5 +1,4 @@
 import 'package:emart_app/consts/consts.dart';
-import 'package:get/get.dart';
 
 import '../../widgets/applogo_widget.dart';
 import '../../widgets/bg_widget.dart';

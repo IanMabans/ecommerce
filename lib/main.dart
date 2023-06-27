@@ -1,6 +1,4 @@
 import 'package:emart_app/views/splashscreen.dart';
-import 'package:flutter/material.dart';
-import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'consts/consts.dart';
 
 void main() {
