@@ -16,3 +16,9 @@ const loginWith = "Login in With";
 const privacyPolicy = "Privacy Policy";
 const termsAndCond = "Terms and Conditions";
 const alreadyHaveAccount = "Already Have Account?";
+
+//HomeStrings
+const home = "Home",
+    categories = "Categories",
+    cart = "Cart",
+    account = "Account ";
