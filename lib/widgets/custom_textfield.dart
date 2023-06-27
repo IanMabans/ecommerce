@@ -10,7 +10,7 @@ Widget customTextField({String? title, String? hint, controller}) {
         controller: controller,
         decoration:  InputDecoration(
           hintText: hint,
-          hintStyle: const TextStyle(fontFamily: semibold, color: textfieldGrey),
+          hintStyle: const TextStyle(fontFamily: semibold, color: textFieldGrey),
           isDense: true,
           fillColor: lightGrey,
           filled: true,

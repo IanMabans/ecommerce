@@ -25,7 +25,7 @@ class HomeScreen extends StatelessWidget {
                   fillColor: whiteColor,
                   hintText: searchAnything,
                   hintStyle: TextStyle(
-                    color: textfieldGrey,
+                    color: textFieldGrey,
                   ),
                 ),
               ),
