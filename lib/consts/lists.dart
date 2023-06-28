@@ -6,3 +6,10 @@ const socialIconList = [
   icTwitterLogo,
 ];
 const sliderList = [imgSlider1, imgSlider2, imgSlider3, imgSlider4];
+const secondSliderList = [imgSs1, imgSs2, imgSs3, imgSs4];
+
+const featuredImages1 = [imgS1, imgS2, imgSs3];
+const featuredImages2 = [imgS4, imgS5, imgS6];
+
+const featuredTitles1 = [womanDress,girlDress,girlWatches];
+const featuredTitles2 = [boysGlasses,mobilePhones,tShirts];
