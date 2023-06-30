@@ -1,4 +1,5 @@
 import 'package:emart_app/consts/consts.dart';
+import 'package:emart_app/views/categoriesScreen/category_details.dart';
 
 import '../../consts/lists.dart';
 import '../../widgets/bg_widget.dart';
@@ -36,7 +37,9 @@ class CategoryScreen extends StatelessWidget {
                       .align(TextAlign.center)
                       .make(),
                 ],
-              ).box.white.rounded.clip(Clip.antiAlias).outerShadowSm.make();
+              ).box.white.rounded.clip(Clip.antiAlias).outerShadowSm.make().onTap(() {
+                Get.to(()=>CategoryDetails(title: categoriesList[index]));
+              });
             },
           ),
         ),
