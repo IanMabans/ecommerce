@@ -49,3 +49,11 @@ const womenClothing = "Women Clothing",
     jewelery = "Jewelery",
     cellPhone = "Cellphone & Tab",
     furniture = "Furniture";
+
+//item details strings
+const video = "Video",
+    review = "Reviews",
+    sellerPolicy = "Seller Policy",
+    returnPolicy = "Return Policy",
+productsYouMayLike ="Products you may like",
+    supportPolicy = "Support Policy";
