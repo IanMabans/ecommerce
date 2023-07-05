@@ -94,7 +94,7 @@ class _SignUpState extends State<SignUp> {
                     ),
                     5.heightBox,
                     ourButton(
-                            color: isCheck == true ? blueColor : lightGrey,
+                            color: isCheck == true ? orangeColor : lightGrey,
                             title: signup,
                             onPress: () {},
                             textColor: whiteColor)

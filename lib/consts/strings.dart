@@ -55,5 +55,9 @@ const video = "Video",
     review = "Reviews",
     sellerPolicy = "Seller Policy",
     returnPolicy = "Return Policy",
-productsYouMayLike ="Products you may like",
+    productsYouMayLike = "Products you may like",
+    logout = "Log Out",
     supportPolicy = "Support Policy";
+
+//profile strings
+const wishlist = "My Wishlist", orders = "My Orders", message = "Messages";

@@ -67,7 +67,7 @@ class ItemDetails extends StatelessWidget {
                     10.heightBox,
                     "\$30,000"
                         .text
-                        .color(blueColor)
+                        .color(orangeColor)
                         .fontFamily(bold)
                         .size(18)
                         .make(),
@@ -166,7 +166,7 @@ class ItemDetails extends StatelessWidget {
                             ),
                             "\$0.00"
                                 .text
-                                .color(blueColor)
+                                .color(orangeColor)
                                 .size(16)
                                 .fontFamily(bold)
                                 .make(),

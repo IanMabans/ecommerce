@@ -40,7 +40,7 @@ class LoginScreen extends StatelessWidget {
                     ),
                     5.heightBox,
                     ourButton(
-                            color: blueColor,
+                            color: orangeColor,
                             title: login,
                             onPress: () {
                               Get.to(() =>const Home());

@@ -4,7 +4,7 @@ Widget customTextField({String? title, String? hint, controller}) {
   return Column(
     crossAxisAlignment: CrossAxisAlignment.start,
     children: [
-      title!.text.color(blueColor).fontFamily(semibold).size(16).make(),
+      title!.text.color(orangeColor).fontFamily(semibold).size(16).make(),
       5.heightBox,
       TextFormField(
         controller: controller,
@@ -16,7 +16,7 @@ Widget customTextField({String? title, String? hint, controller}) {
           filled: true,
           border: InputBorder.none,
           focusedBorder: const OutlineInputBorder(
-            borderSide: BorderSide(color: blueColor),
+            borderSide: BorderSide(color: orangeColor),
           ),
         ),
       ),
